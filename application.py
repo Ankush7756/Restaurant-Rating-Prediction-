@@ -117,6 +117,11 @@ def about():
     return render_template("about.html")
 
 
+<<<<<<< HEAD
 
 if __name__=="__main__":
     app.run(host="0.0.0.0", port=8000)
+=======
+if __name__=="__main__":
+    app.run(host="0.0.0.0", port=8000)
+>>>>>>> de3c31dc52a6d749183613c82e024a5d85419483
